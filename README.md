@@ -14,9 +14,9 @@ Jogo de campo minado feito com React-Native, Javascript e CSS.
   
 ## 📱 Imagens do App
 <span>
-	<img src="https://github.com/caiovictors/Campo-Minado-App/blob/master/Git_Imgs/20200915_204441.jpg" width="270" heigth="480">
-	<img src="https://github.com/caiovictors/Campo-Minado-App/blob/master/Git_Imgs/20200915_204455.jpg" width="270" heigth="480">
-	<img src="https://github.com/caiovictors/Campo-Minado-App/blob/master/Git_Imgs/20200915_204421.jpg" width="270" heigth="480">
+	<img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Campo%20Minado%20imgs/20200915_204441.jpg.jpg" width="270" heigth="480">
+	<img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Campo%20Minado%20imgs/20200915_204455.jpg" width="270" heigth="480">
+	<img src="https://github.com/caiovictors/Imagens-repositorios/blob/master/Campo%20Minado%20imgs/20200915_204421.jpg" width="270" heigth="480">
 </span>
   
   
