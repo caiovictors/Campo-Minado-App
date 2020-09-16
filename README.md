@@ -8,6 +8,7 @@ Jogo de campo minado feito com React-Native, Javascript e CSS.
   * **No terminal da pasta, execute:** </br>
   		```$npm i ```   </br>
 			```$npm start ```
+  * **Escaneie o QR code e pronto.
 ## 🕹 Como jogar
   * **Selecione a dificuldade na bandeirinha no canto superior esquerdo**
   * **Divirta-se**
